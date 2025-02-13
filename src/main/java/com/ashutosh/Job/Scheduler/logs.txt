@@ -1,0 +1,6 @@
+{"id":309,"timestamp":1739454129707,"latencyInMillis":4760}
+{"id":308,"timestamp":1739454119899,"latencyInMillis":4792}
+{"id":310,"timestamp":1739454139486,"latencyInMillis":4987}
+{"id":311,"timestamp":1739454184553,"latencyInMillis":5079}
+{"id":312,"timestamp":1739454244762,"latencyInMillis":5079}
+{"id":313,"timestamp":1739454299933,"latencyInMillis":5309}
