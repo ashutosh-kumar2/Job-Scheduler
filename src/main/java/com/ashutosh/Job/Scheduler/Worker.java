@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 import java.sql.Timestamp;
 
 @Component
-public class Worker implements Runnable{
+public class Worker /*implements Runnable*/{
 
     @Autowired
     private JobsCache jobsCache;
@@ -25,7 +25,7 @@ public class Worker implements Runnable{
         }
     }
 
-    @Override
+    /*@Override
     public void run() {
         while(true){
             try{
@@ -35,5 +35,5 @@ public class Worker implements Runnable{
                 throw new RuntimeException(e);
             }
         }
-    }
+    }*/
 }

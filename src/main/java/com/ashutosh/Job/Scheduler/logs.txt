@@ -1,6 +1,4 @@
-{"id":309,"timestamp":1739454129707,"latencyInMillis":4760}
-{"id":308,"timestamp":1739454119899,"latencyInMillis":4792}
-{"id":310,"timestamp":1739454139486,"latencyInMillis":4987}
-{"id":311,"timestamp":1739454184553,"latencyInMillis":5079}
-{"id":312,"timestamp":1739454244762,"latencyInMillis":5079}
-{"id":313,"timestamp":1739454299933,"latencyInMillis":5309}
+{"id":755,"timestamp":1740071414238,"latencyInMillis":4698}
+{"id":754,"timestamp":1740071409255,"latencyInMillis":4971}
+{"id":753,"timestamp":1740071404133,"latencyInMillis":5108}
+{"id":752,"timestamp":1740071342084,"latencyInMillis":5148}
